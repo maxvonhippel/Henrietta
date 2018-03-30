@@ -1,5 +1,7 @@
 This is my current parts wishlist for Henrietta.
 
+--
+
 ### Lights
 
 * Front LED headlights [by ICON](https://shop.icon4x4.com/parts/fj-headlights) - $825.00
@@ -18,7 +20,17 @@ This is my current parts wishlist for Henrietta.
 
 * Alaskan flag blue (`#0F204B`)
 
+### Mounts & Racks
+
+* Hi-Lift Mount [by PelfreyBilt](http://www.pelfreybilt.com/product/hi-lift-mount/) - $79.00
+* Bottle Opener [by Front Runner](https://www.frontrunneroutfitters.com/en/us/rack-accessories/camp-accessories/front-runner-new-slimline-ii-roof-rack-mounted-bottle-opener.html) - $12.95
+* Lumber Rack, preferably strong enough to also provide some support if I roll, and eventually support a rooftop tent
+
+### Overlanding
+
+* Rooftop tent by Cascadia Rooftop Tents
+
 ### Miscellaneous
 
-* Front grill to replace the ugly spray-painted one it came with
-* Replace the broken back right inner fender guard thing, or fix it with zip-ties 
+* Front grill replacement by [Replace Company](https://www.carid.com/1999-toyota-tacoma-replacement-grilles/replace-grilles-376723127.html?parentsubmodel[]=SUBMODEL|Xtracab) - $24.96
+* Replace the broken back right inner fender guard thing, or fix it with zip-ties
