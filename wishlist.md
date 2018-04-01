@@ -9,8 +9,9 @@ This is my current parts wishlist for Henrietta.
 
 ### Bumpers
 
-* Rear plate wrap-around bymper [by Relentless Fabrication](https://www.relentlessfabrication.com/products/96-04-tacoma-wrap-around-rear-plate-bumper) - $979.00
+* Rear plate wrap-around bumper [by Relentless Fabrication](https://www.relentlessfabrication.com/products/96-04-tacoma-wrap-around-rear-plate-bumper) - $979.00
 * Front wrap-around bumper [by ARB](https://bumpersuperstore.com/i-23938988-arb-3423040-front-deluxe-bull-bar-winch-bumper-toyota-tacoma-1995-2004-textured.html) - $866.40
+	* Alternative front wrap-around bumper by Relentless Fabrication - [option 1](https://www.relentlessfabrication.com/collections/toyota/products/96-04-tacoma-defender-front-plate-bumper), [option 2](https://www.relentlessfabrication.com/collections/toyota/products/96-04-tacoma-summit-front-plate-bumper)
 
 ### Body Protection
 
